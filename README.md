@@ -1,9 +1,9 @@
 Folder Flattener
 ===============
 
-Straith to the basics, this tools flatens a directory hierachy and puts it into a single folder.
+Straight to the basics, this tools flatens a directory hierachy and puts it into a single folder.
 
-## Purpuse ##
+## Purpose ##
 The main purpose of this tool was to be able to give an extract of all documents from a hierarchy of folders. Instead of digging into each folder, the documents are all copied at a single location.
 
 ## Usage ##
